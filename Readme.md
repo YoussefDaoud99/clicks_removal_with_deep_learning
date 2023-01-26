@@ -1,7 +1,7 @@
 The project is a part of my training at ENS Paris Saclay while pursuing the master MVA "Mathématiques, Vision et Apprentissage".
 
 The goal of the project is to remove clicks(considered as noise) in audios:
-- data : In this folder, you will find a training and test datasets :
+- data : In this folder, you will find training and test datasets :
     -  voixref_train : Clean audios (without clicks) for training.
     -  voixclicks_train : Audios with clicks for training.
     -  voixref_test : the clean audios (without clicks) for testing.
